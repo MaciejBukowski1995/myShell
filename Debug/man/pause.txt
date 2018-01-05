@@ -1,0 +1,2 @@
+Pause operation of the shell until 'Enter' is pressed.
+

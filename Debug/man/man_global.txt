@@ -1,0 +1,17 @@
+These shell commands are defined internally.Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+
+cd [directory]
+clr
+dir [directory]
+environ
+echo [comment]
+help name
+pause
+quit
+
+dir, environ, echo, help can be used with output redirection, 
+if the redirection character is > then the output file is 
+created if it does not exist and truncated if it does. 
+If the redirection token is >> then output file is created
+if it does not exist and appended to if it does.
